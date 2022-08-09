@@ -18,6 +18,10 @@
     "@angular/platform-browser": "^14.0.0",
     "@angular/platform-browser-dynamic": "^14.0.0",
     "@angular/router": "^14.0.0",
+    "angular-user-idle": "^3.0.0",
+    "bootstrap": "^5.2.0-beta1",
+    "ngx-countdown": "^14.0.0",
+    "radium": "^0.26.2",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
